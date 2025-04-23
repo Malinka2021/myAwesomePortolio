@@ -20,3 +20,7 @@ h3{
 #iam {
     color: #A3A6A3;
 }
+ul{
+    display: table;
+    margin: 0 auto;
+}
