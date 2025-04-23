@@ -13,9 +13,10 @@ img{
     object-fit: cover;
 }
 h3{
-color: #D5A2FE;
+    color: #D5A2FE;
     font-family: "Russo One", sans-serif;
-}
+    text-align: center;
+}   
 #iam {
     color: #A3A6A3;
 }
