@@ -24,3 +24,8 @@ ul{
     display: table;
     margin: 0 auto;
 }
+table{
+    text-align: center;
+    width: 400px;
+    margin: 30px auto;s
+}
